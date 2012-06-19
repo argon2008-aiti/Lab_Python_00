@@ -1,0 +1,15 @@
+1. i. 5  ii. 5.5
+
+2.7625597484987L
+
+3.334206837441656786944L
+
+4.the average time per meter is 175.55555555555554 m/min
+
+5.the shortest distance is the hypothenus of a triangle whose other two sides represent the distances covered by me and by friend respectively. Therefore:
+
+shortestDistance = pow((4.7**2 + 9.4**2), 0.5)
+python's output is:
+shortestDistance = 10.509519494249012
+
+ 
